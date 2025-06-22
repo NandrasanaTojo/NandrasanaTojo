@@ -7,10 +7,6 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=NandrasanaTojo&color=0e75b6&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/NandrasanaTojo)
-[![GitHub followers](https://img.shields.io/github/followers/NandrasanaTojo?logo=github&style=for-the-badge&color=0e75b6&labelColor=1c1917)](https://github.com/NandrasanaTojo)
-[![GitHub Stars](https://img.shields.io/github/stars/NandrasanaTojo?logo=github&style=for-the-badge&color=0e75b6&labelColor=1c1917)](https://github.com/NandrasanaTojo)
-
 </div>
 
 <div align="center">
