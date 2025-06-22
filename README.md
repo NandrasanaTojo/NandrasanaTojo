@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 👨‍💻 NandrasanaTojo
+# Hello , My name is Nandrasana Tojo 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2000&pause=500&color=00D8FF&center=true&vCenter=true&width=800&height=100&lines=Full+Stack+Developer+%F0%9F%9A%80;AI%2FML+Enthusiast+%F0%9F%A4%96;WebRTC+Specialist+%F0%9F%93%A1;Electron+Expert+%E2%9A%A1;Problem+Solver+%F0%9F%A7%A9;Open+Source+Contributor+%F0%9F%8C%9F" alt="Typing SVG" />
 
@@ -13,33 +13,10 @@
 
 </div>
 
----
-
-<img align="center" alt="Coding" width="500" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-<br clear="both">
-
----
-
-## 🛠️ Tech Arsenal
-
 <div align="center">
-
-### 💻 Programming Languages
-<img src="https://skillicons.dev/icons?i=js,ts,python,html,css" />
-
-### 🚀 Frameworks & Libraries  
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,electron,nextjs" />
-
-### 🔧 Tools & Technologies
-<img src="https://skillicons.dev/icons?i=git,vscode,docker,figma,postman" />
-
-### ☁️ Cloud & Databases
-<img src="https://skillicons.dev/icons?i=aws,mongodb,postgresql,redis,firebase" />
-
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
 </div>
 
----
 
 ## 📊 GitHub Analytics
 
@@ -74,30 +51,19 @@ mindmap
       JavaScript
       TypeScript  
       React
-      HTML5/CSS3
-      Responsive Design
+      HTML5/CSS
+      Mui
+      Tailwind
     Backend ⚙️
       Node.js
       Express.js
       Python
       RESTful APIs
       GraphQL
-    Specialties 🌟
-      WebRTC
-        Real-time Communication
-        Video/Audio Streaming
-        P2P Connections
-      Electron
-        Cross-platform Apps
-        Desktop Development
-      AI/ML 🤖
-        Machine Learning
-        Neural Networks
-        OpenAI Integration
+      RabbitMq
+      Redis
     Tools 🛠️
       Git/GitHub
       Docker
-      VS Code
       AWS
-      MongoDB
 ```
