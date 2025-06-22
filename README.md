@@ -3,7 +3,7 @@
 
 # Hello , My name is Nandrasana Tojo 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2000&pause=500&color=00D8FF&center=true&vCenter=true&width=800&height=100&lines=Full+Stack+Developer+%F0%9F%9A%80;AI%2FML+Enthusiast+%F0%9F%A4%96;WebRTC+Specialist+%F0%9F%93%A1;Electron+Expert+%E2%9A%A1;Problem+Solver+%F0%9F%A7%A9;Open+Source+Contributor+%F0%9F%8C%9F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2000&pause=500&color=00D8FF&center=true&vCenter=true&width=800&height=100&lines=Full+Stack+Developer+%F0%9F%9A%80;Problem+Solver+%F0%9F%A7%A9" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
